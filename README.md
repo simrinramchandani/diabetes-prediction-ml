@@ -6,11 +6,11 @@ This project applies machine learning models to predict diabetes using real-worl
 - Python (pandas, scikit-learn, matplotlib)
 - Jupyter Notebook
 
-## Files
+## 📁 Files
 - `DS3000.A11.Simrin.Ramchandani.ipynb`: Full notebook with code and analysis
 - `diabetes.csv`: Input dataset
 
-## Key Highlights
+## 📌 Key Highlights
 - Cleaned and explored patient data
 - Built and compared SVM, k-NN, and tree-based models
 - Evaluated model accuracy and confusion matrices
